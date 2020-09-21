@@ -1,4 +1,6 @@
 ### Hi there 👋
+- ✨ I’m tan.
+- 🌱 I’m currently learning react and nodejs.
 
 <!--
 **pongtawan25/pongtawan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
